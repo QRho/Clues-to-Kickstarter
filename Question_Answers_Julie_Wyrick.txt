@@ -1,5 +1,5 @@
 
-Excel Homework Questions:
+Excel Questions:
 
 Q1.) Given the provided data, what are the three conclusions we can draw about kickstarter campaigns? 
 
