@@ -6,6 +6,7 @@
 ![](Images/1.JPG)
 ![](Images/2.JPG)
 ![](Images/3.JPG)
-![](Images/SnapShots.JPG)
+# This is certainly good information to start with to help inform you what your up against in each category. 
+# Analysis falls could be enhanced by incorperating the types of promotion used and if the campaign was complete online, if it has a video etc...
 
 
