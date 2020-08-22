@@ -33,4 +33,4 @@ Jan-May seems to be the best time to launch a successful campaign.
 
 ## Could create a scatterplot based on the purpose or intention of each project  (entertainment, activism, awareness, aesthetic beauty, nature conservation etc...),in order to help promote the projets to certain philanthropical organizations,angel investors etc, to choose the project they want to get invoved with.
 
-##Could also do some stats on which dollar ammounts are most successful. I would think that there could be a correlation or sweet spot in the ammount of money being ##asked for example min pledge vs any dollar amount accepted, and those that are successful.  
+## Could also do some stats on which dollar ammounts are most successful. I would think that there could be a correlation or sweet spot in the ammount of money being asked for example min pledge vs any dollar amount accepted, and those that are successful.  
