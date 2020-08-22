@@ -1,12 +1,11 @@
 
-Excel Homework Questions:
 
-Q1.) Given the provided data, what are the three conclusions we can draw about kickstarter campaigns? 
+#Given the provided data, the three main conclusions I can draw about kickstarter campaigns? 
+1. Item 1
+1. Item 2
+1. Item 3
 
-
-A1.) 
-
-A.To be safe I would say that kickstarter looks like it is a successful funding platform for certain types of muisic namely: hardwarve, indierock,pop,electronic music and classical, as well as certian performative arts such as theatre plays and media arts such as,film shorts,documentaries,and television.
+A.Kickstarter is a successful funding platform for certain types of muisic namely: hardwarve, indierock,pop,electronic music and classical, as well as certian performative arts such as theatre plays and media arts such as,film shorts,documentaries,and television.
 
 B.It seems that there are alot of people using kickstarter for funding for plays.
 Jan-May seems to be the best time to launch a successful campaign. 
@@ -15,7 +14,7 @@ C.There are so many people with such amazing creative ideas that they want to sh
 
 
 
-2.) What are some limitations of this dataset? 
+#What are some limitations of this dataset? 
 
 We don't get to see how fully each person filled out their campaign page or examine the quality of the work they put into their project. We dont know if they shared their campiagn via marketing or elsewhere.
 
