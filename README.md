@@ -1,6 +1,6 @@
 # Clues to Kickstarter
 ![](Images/SnapShots.JPG)
-## This series of analysis takes from a very popular projet funding site called Kickstarter. The data in this specific report centers on the US campaigns or worldwise as noted. The idea behind analysis was to try and find patterns and insights as to what makes a successful campaign on this platform.Data was very enlightening and definitly shows some intereseting results.
+## This series of analysis takes from a very popular project funding site called Kickstarter. The data in this specific report centers on the US campaigns or worldwise as noted. The idea behind analysis was to try and find patterns and insights as to what makes a successful campaign on this platform.Data was very enlightening and definitly shows some intereseting results.
 
 ## Given the provided data, the three main conclusions I can draw about kickstarter campaigns are:
 
