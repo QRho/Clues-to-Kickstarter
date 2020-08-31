@@ -4,7 +4,7 @@
 
 ## Given the provided data, the three main conclusions I can draw about kickstarter campaigns are:
 
-### A.Kickstarter is a funding platform for certain types of muisic namely: hardwarve, indierock,pop,electronic music and classical, as well as certian performative arts such as theatre plays and media arts such as,film shorts,documentaries,and television.
+### A.Kickstarter is a funding platform popular for certain types of muisic namely: hardwarve, indierock,pop,electronic music and classical, as well as certian performative arts such as theatre plays and media arts such as,film shorts,documentaries,and television.
 
 ### B.It seems that there are alot of people using kickstarter for funding for plays.Jan-May seems to be the best time to launch a successful campaign. 
 
