@@ -12,9 +12,9 @@
 
 ![](Images/1.JPG)
 ![](Images/2.JPG)
-![](Images/3.JPG)
 ![](Images/Ammounts.JPG)
 ![](Images/MonthCampaigns.JPG)
+![](Images/USRates.JPG)
 
 
 # This is certainly good information to start with to help inform you what your up against in each category. 
