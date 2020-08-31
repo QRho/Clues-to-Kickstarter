@@ -7,12 +7,12 @@
 ### A.Kickstarter is a funding platform popular for certain types of muisic,performative arts and media arts such as film. These three categories, Theatre, Muisc and Film are the most successful of the campaign categories analyzed.Rate of failure is lowest in Muisc at 22%, Second lowest in Film at 49% and third lowest in theatre at 66%
 
 ![](Images/2.JPG)
-![](Images/1.JPG)
+![](Images/USRates.JPG)
 ![](Images/Ammounts.JPG)
 ### B.The best ammount to ask based on success rate worldwide is firstly less than 1,000 with a 71% success rate and secondly 1,000-4,999 at 66% success rate.
 ![](Images/MonthCampaigns.JPG)
 ### C. On a worldwide scale, Jan-May appears to be to be the best time to launch a successful campaign.
-![](Images/USRates.JPG)
+
 
 
 # This is certainly good information to start with to help inform you what your up against in each category. 
