@@ -1,16 +1,14 @@
 # Clues to Kickstarter
 ![](Images/SnapShots.JPG)
-## This series of analysis takes from a very popular projet funding site called Kickstarter.
-## The idea behind analysis was to try and find patterns and insights as to what makes a successful campaign on this platform.
-## Data was very enlightening and definitly shows some intereseting results.
+## This series of analysis takes from a very popular projet funding site called Kickstarter.The idea behind analysis was to try and find patterns and insights as to what makes a successful campaign on this platform.Data was very enlightening and definitly shows some intereseting results.
 
-# Given the provided data, the three main conclusions I can draw about kickstarter campaigns? 
-## A.Kickstarter is a successful funding platform for certain types of muisic namely: hardwarve, indierock,pop,electronic music and classical, as well as certian performative arts such as theatre plays and media arts such as,film shorts,documentaries,and television.
+## Given the provided data, the three main conclusions I can draw about kickstarter campaigns are:
 
-## B.It seems that there are alot of people using kickstarter for funding for plays.
-Jan-May seems to be the best time to launch a successful campaign. 
+### A.Kickstarter is a funding platform for certain types of muisic namely: hardwarve, indierock,pop,electronic music and classical, as well as certian performative arts such as theatre plays and media arts such as,film shorts,documentaries,and television.
 
-## C.There are so many people with such amazing creative ideas that they want to share with the world!
+### B.It seems that there are alot of people using kickstarter for funding for plays.Jan-May seems to be the best time to launch a successful campaign. 
+
+### C.There are so many people with such amazing creative ideas that they want to share with the world!
 
 ![](Images/1.JPG)
 ![](Images/2.JPG)
