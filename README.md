@@ -10,6 +10,7 @@
 
 ### C. On a worldwide scale, Jan-May appears to be to be the best time to launch a successful campaign.
 
+![](Images/2.JPG)
 ![](Images/1.JPG)
 ![](Images/Ammounts.JPG)
 ![](Images/MonthCampaigns.JPG)
